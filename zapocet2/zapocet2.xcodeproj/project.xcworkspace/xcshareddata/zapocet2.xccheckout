@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E1C19297-8C32-4A03-879E-6CFD1E879270</string>
+	<key>IDESourceControlProjectName</key>
+	<string>zapocet2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CB94B042-A9AF-4AAA-963E-40A10F033EB1</key>
+		<string>https://github.com/Kjub/C.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>zapocet2/zapocet2.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CB94B042-A9AF-4AAA-963E-40A10F033EB1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Kjub/C.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CB94B042-A9AF-4AAA-963E-40A10F033EB1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB94B042-A9AF-4AAA-963E-40A10F033EB1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pb071</string>
+		</dict>
+	</array>
+</dict>
+</plist>
